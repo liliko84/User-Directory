@@ -46,7 +46,7 @@ class App extends Component {
           return false
         }
 
-        // reaturn first.includes(search) || last.includes(search)
+        // return first.includes(search) || last.includes(search)
       })
     })
   }
